@@ -31,7 +31,19 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<a href="https://reactjs.org/">Reactjs</a>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">Reactjs</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://github.com/Mujeeb4582/hello-rails-back-end">Link to Server repository</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
