@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails Front End <a name="about-project"></a>
+# 📖 Hello React Front End <a name="about-project"></a>
 
-**Hello Rails Front End** is a demo project aimed at showing how to connect a Reactjs application with an external Backend server.
+**Hello React Front End** is a demo project aimed at showing how to connect a Reactjs application with an external Backend server.
 
 ## 🛠 Built With <a name="built-with"></a>
 
