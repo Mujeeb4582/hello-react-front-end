@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { getMessage } from "../redux/greetingReducer";
 import axios from "axios";
+import { getMessage } from "../redux/greetingReducer";
 
 const Greeting = () => {
   const dispatch = useDispatch();
@@ -20,7 +20,9 @@ const Greeting = () => {
   return (
     <div>
       <h1>{message}</h1>
-      <button onClick={() => fetchMessage()}>Generate greeting message</button>
+      <button type="button" onClick={() => fetchMessage()}>
+        Generate greeting message
+      </button>
     </div>
   );
 };
